@@ -20,10 +20,11 @@ class="center">
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#Generative Image Compression (GIC)>Generative Image Compression</a></li>
-    <li><a href=#Generative Video Compression (GVC)>Generative Video Compression</a></li>
+    <li><a href=#Generative Image Compression (GIC)>Generative Image Compression (GIC)</a></li>
+    <li><a href=#Generative Video Compression (GVC)>Generative Video Compression (GVC)</a></li>
     <li><a href=#Extreme Learned Image Compression (ELIC)>Extreme Learned Image Compression (ELIC)</a></li>
-    <li><a href=#Extreme Learned Video Compression (ELVC)>Extreme Learned Video Compression</a></li>
+    <li><a href=#Extreme Learned Video Compression (ELVC)>Extreme Learned Video Compression (ELVC)</a></li>
+    <li><a href=#Dataset And Test Conditions>Dataset And Test Conditions</a></li>
   </ol>
 </details>
 
