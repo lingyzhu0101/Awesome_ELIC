@@ -1,5 +1,5 @@
 # Awesome_ELIC
-Paper list of Extreme Learned Image Compression (ELIC) for human vision and machine vision.
+Paper list of Generative Learned Compression (GLC). This includes topics such as Generative Image Compression (GIC), Generative Video Compression (GVC), Extreme Learned Image Compression (ELIC), and Extreme Learned Video Compression (ELVC) for human and machine vision perception. ELIC and ELVC, in particular, have emerged from advancements in generative models and could offer new insights into the relationship between generation ability and Shannon’s information theory.
 
 **Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN)
 
@@ -11,6 +11,7 @@ class="center">
 
 # Notes
 - If you find papers relevant to this topic, please share them as a discussion post.
+- Some papers may simultaneously belong to multiple subfields, and we categorize them accordingly to reflect these overlaps.
 - Looking forward to your kind contributions and discussions! Many thanks!
 
 
@@ -19,19 +20,33 @@ class="center">
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#Extreme Learned Image Compression Human Perception>Extreme Learned Image Compression Human Perception</a></li>
-    <li><a href=#Extreme Learned Image Compression Machine Perception>Extreme Learned Image Compression Machine Perception</a></li>
+    <li><a href=#Generative Image Compression>Generative Image Compression</a></li>
+    <li><a href=#Generative Video Compression>Generative Video Compression</a></li>
+    <li><a href=#Extreme Learned Image Compression>Extreme Learned Image Compression (ELIC)</a></li>
+    <li><a href=#Extreme Learned Video Compression>Extreme Learned Video Compression</a></li>
   </ol>
 </details>
 
-## Extreme Learned Image Compression Human Perception
+## Generative Image Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
 
 
-## Extreme Learned Image Compression Machine Perception
+## Generative Video Compression
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
+
+
+## Extreme Learned Image Compression
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
+
+
+## Extreme Learned Video Compression
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
