@@ -17,9 +17,14 @@ class="center">
 # Updated on 2025.04.18
 
 
-## Image/Video Coding for Machines
+## Extreme Learned Image Compression Human Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2021.08**|**Digital Retina: A Way to Make the City Brain More Efficient by Visual Coding**|Wen Gao et.al.|[TCSVT](https://ieeexplore.ieee.org/abstract/document/9514562)|null|
+|**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
+
+
+## Extreme Learned Image Compression Machine Perception
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
 |**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
