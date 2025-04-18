@@ -53,10 +53,19 @@ class="center">
 
 
 
-## Dataset
+## Dataset for Human Vision Perception
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
 
 
+
+## Dataset for Machine Vision Perception
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024.11**|**Compact Visual Data Representation for Green Multimedia - A Human Visual System Perspective**|Peilin Chen et.al.|[2411.14135](https://arxiv.org/pdf/2411.14135)|null|
+
+
+
 ## Test Conditions
+- Coming Soon!
