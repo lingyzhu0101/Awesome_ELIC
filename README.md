@@ -16,6 +16,13 @@ class="center">
 
 # Updated on 2025.04.18
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#Extreme Learned Image Compression Human Perception>Extreme Learned Image Compression Human Perception</a></li>
+    <li><a href=#Extreme Learned Image Compression Machine Perception>Extreme Learned Image Compression Machine Perception</a></li>
+  </ol>
+</details>
 
 ## Extreme Learned Image Compression Human Perception
 
