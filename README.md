@@ -3,7 +3,7 @@ Paper list of Generative Learned Compression (GLC). This includes topics such as
 
 **Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN) 
 
-**Generate Image Compression Report:** [Chinese version](src/超低码率生成式图像压缩技术报告.pdf) 
+**Generative Image Compression Report:** [Chinese version](src/超低码率生成式图像压缩技术报告.pdf) 
 
 
 # Overview
