@@ -5,7 +5,7 @@ Paper list of Generative Learned Compression (GLC). This includes topics such as
 
 **Generative Image Compression Report:** [Chinese version](src/超低码率生成式图像压缩技术报告.pdf) 
 
-**Invited Talk:** [Chinese version](src/超低码率生成式图像压缩技术报告.pdf) 
+**Invited Talk:** [Chinese version](src/GIC_talk.pdf) 
 
 # Overview
 <p align="left">
