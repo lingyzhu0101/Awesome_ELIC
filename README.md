@@ -1,7 +1,7 @@
 # 🚀 Awesome_GLC
 Paper list of Generative Learned Compression (GLC). This includes topics such as Generative Image Compression (GIC), Generative Video Compression (GVC), Extreme Learned Image Compression (ELIC), and Extreme Learned Video Compression (ELVC) for human and machine vision perception. ELIC and ELVC, in particular, have emerged from advancements in generative models and could offer new insights into the relationship between generation ability and Shannon’s information theory. We also provide the test conditions for fair comparison.
 
-**Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN) 
+**Maintained by:** [Lingyu Zhu](https://scholar.google.com/citations?user=IhyTEDkAAAAJ&hl=zh-CN) , [Langxi Huang]() and [Chengyan Jiang]()
 
 **Generative Image Compression Report:** [Chinese version](src/超低码率生成式图像压缩技术报告.pdf) 
 
